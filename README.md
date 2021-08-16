@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mshakhriyorov
+- 👋 Hi, I’m Mukhriddin Shakhriyorov
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
