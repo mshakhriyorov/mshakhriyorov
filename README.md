@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Mukhriddin Shakhriyorov, from Uzbekistan. I’m engaged in Frontend Development.
-I’m currently learning and practicing React JS. 📫 You can reach me https://t.me/Mookher_al_deen via Telegram :)
+- 👋 Hi, I’m Mukhriddin Shakhriyorov, from Uzbekistan. I’m engaged in Frontend Development and currently learning and practicing React JS. 📫 You can reach me https://t.me/Mookher_al_deen via Telegram :)
 
 <!---
 mshakhriyorov/mshakhriyorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
